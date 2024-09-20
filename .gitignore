@@ -8,5 +8,5 @@
 */USER/DebugConfig
 */USER/Obj
 
-!USER/Objects/*.hex
-!OBJ/*.hex
+!*/USER/Objects/*.hex
+!*/OBJ/*.hex
